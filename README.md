@@ -23,15 +23,13 @@ A passionate developer from Bangladesh 🇧🇩
 
 <code><br></code>
 
-- **Programming Languages:** <code><a href=""><img height="18" style="max-width:100%;" src="https://github.com/sahapranta/sahapranta/blob/master/assets/kotlin.svg" alt="Kotlin"></a></code>
- <code><a href=""><img height="20" style="max-width:100%;" src="https://github.com/sahapranta/sahapranta/blob/master/assets/java.svg" alt="Java"></a></code>
- <code><a href=""><img height="20" style="max-width:100%;" src="https://github.com/sahapranta/sahapranta/blob/master/assets/php.svg" alt="PHP"></a></code>
+- **Programming Languages:** <code><a href=""><img height="20" style="max-width:100%;" src="https://github.com/sahapranta/sahapranta/blob/master/assets/php.svg" alt="PHP"></a></code>
  <code><a href=""><img height="20" style="max-width:100%;" src="https://github.com/sahapranta/sahapranta/blob/master/assets/c%23.svg" alt="C#"></a></code>
  <code><a href=""><img height="20" style="max-width:100%;" src="https://github.com/sahapranta/sahapranta/blob/master/assets/javascript.svg" alt="JavaScript"></a></code>
  <code><a href=""><img height="20" style="max-width:100%;" src="https://github.com/sahapranta/sahapranta/blob/master/assets/html5.svg" alt="HTML"></a></code>
  <code><a href=""><img height="20" style="max-width:100%;" src="https://github.com/sahapranta/sahapranta/blob/master/assets/css3.svg" alt="CSS"></a></code>
 
-- **Framework/Library/DB:** <code><a href=""><img height="20" style="max-width:100%;" src="https://github.com/sahapranta/sahapranta/blob/master/assets/android.svg" alt="Android"></a></code>
+- **Framework/Library/DB:** 
 <code><a href=""><img height="20" style="max-width:100%;" src="https://github.com/sahapranta/sahapranta/blob/master/assets/laravel.svg" alt="Laravel"></a></code>
 <code><a href=""><img height="20" style="max-width:100%;" src="https://github.com/sahapranta/sahapranta/blob/master/assets/react.svg" alt="React"></a></code>
 <code><a href=""><img height="20" style="max-width:100%;" src="https://github.com/sahapranta/sahapranta/blob/master/assets/bootstrap.svg" alt="Bootstrap"></a></code>
@@ -46,12 +44,12 @@ A passionate developer from Bangladesh 🇧🇩
   <code><a href=""><img height="20" style="max-width:100%;" src="https://github.com/sahapranta/sahapranta/blob/master/assets/bitbucket.svg" alt="Bitbucket"></a></code>
 <code><a href=""><img height="20" style="max-width:100%;" src="https://github.com/sahapranta/sahapranta/blob/master/assets/heroku.svg" alt="Heroku"></a></code>
 
-- **Tools:**  <code><a href=""><img height="20" style="max-width:100%;" src="https://github.com/sahapranta/sahapranta/blob/master/assets/android-studio.svg" alt="Android Studio"></a></code>
+- **Tools:**  
  <code><a href=""><img height="20" style="max-width:100%;" src="https://github.com/sahapranta/sahapranta/blob/master/assets/vscode.svg" alt="Visual Studio Code
 "></a></code>
  <code><a href=""><img height="20" style="max-width:100%;" src="https://github.com/sahapranta/sahapranta/blob/master/assets/sublime-text.svg" alt="Sublime Text
 "></a></code>
-  <code><a href=""><img height="20" style="max-width:100%;" src="https://github.com/sahapranta/sahapranta/blob/master/assets/unity.svg" alt="Unity"></a></code>
+  
  <code><a href=""><img height="20" style="max-width:100%;" src="https://github.com/sahapranta/sahapranta/blob/master/assets/postman.svg" alt="Postman
 "></a></code>
  <code><a href=""><img height="20" style="max-width:100%;" src="https://github.com/sahapranta/sahapranta/blob/master/assets/trello.svg" alt="Trello
