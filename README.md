@@ -54,9 +54,9 @@ A passionate developer from Bangladesh 🇧🇩
 
 - **How to reach me:**  <code><a href="https://www.linkedin.com/in/sahapranta"><img height="20" style="max-width:100%;" src="https://github.com/sahapranta/sahapranta/blob/main/assets/linkedin.svg" alt="Linkedin"></a></code>
     <code><a href="mailto:pranta1204@gmail.com"><img height="18" style="max-width:100%;" src="https://github.com/sahapranta/sahapranta/blob/main/assets/gmail.svg" alt="Gmail"></a></code>
-    <code><a href="https://www.facebook.com/pmdjps"><img height="20" style="max-width:100%;" src="https://github.com/sahapranta/sahapranta/blob/main/assets/facebook.svg" alt="Facebook"></a></code>
+    <code><a href="https://www.facebook.com/pmdjps"><img height="20" style="max-width:100%;" src="https://github.com/sahapranta/sahapranta/blob/main/assets/facebook.svg" alt="Facebook"></a></code><code><a href="https://twitter.com/04prantasaha"><img height="20" style="max-width:100%;" src="https://github.com/sahapranta/sahapranta/blob/main/assets/twitter.svg" alt="Twitter"></a></code>
     <!-- <code><a href="https://join.skype.com/invite/rAQwT4L4iLoE"><img height="20" style="max-width:100%;" src="https://github.com/sahapranta/sahapranta/blob/main/assets/skype.svg" alt="Skype"></a></code> -->
-    <code><a href="https://twitter.com/04prantasaha"><img height="20" style="max-width:100%;" src="https://github.com/sahapranta/sahapranta/blob/main/assets/twitter.svg" alt="Twitter"></a></code>
+    
 
 <code><br></code>
 
